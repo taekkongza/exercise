@@ -2,8 +2,7 @@
 
 some description
 exercise make perfect
-git 
-github
+git   
 git - global information tracker  
 what
 is 
