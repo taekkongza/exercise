@@ -8,6 +8,53 @@ what
 is 
 your name  
 
+## subheader
+Watch tutorial on YouTube
+
+git 
+- cmd,terminal
+- git homepage --> GUI clients
+-->  GitHub desktop, SourceTree
+
+git --> GitHub desktop --> GitHub 
+           SourceTree (+)
+            GitKraken
+           terminal(++)
+
+편한 터미널
+Mac == iTerm2
+window == cmder
+
+git homepage --> 설치
+sourcetree 설치
+
+--------------------------
+git commands
+clone : bring a repository that is hosted somewhere like Github into a folder on your local  machine
+add : Track your files and change in Git
+commit : Save your files in Git
+push : upload git commit to a remote repo, like github
+pull: Download changes from remote repo to your local machine, the opposite of push
+
+repo -> repository
+
+clone -> bring a repo down from the internet (remote repository like Github) to your local machine
+
+add -> track your files and changes with Git
+
+commit -> save your changes into Git
+
+push -> push your changes to your remote repo on Github (or another website)
+
+pull -> pull changes down from the remote repo to your local machine
+
+status -> check to see which files are being tracked or need to be commited
+
+init -> use this command inside of your project to turn it into a Git repository and start using Git with that codebase
+
+
+------------------------------------------
+
 새로운 SSH 키를 GitHub 계정에 추가하는 방법은 다음과 같습니다:
 
 1. **SSH 키 생성**: 먼저, 새로운 SSH 키를 생성해야 합니다. 터미널 또는 명령 프롬프트에서 다음 명령을 실행하여 키를 생성합니다. 여기서 "your_email@example.com"은 본인의 이메일 주소로 대체하세요.
