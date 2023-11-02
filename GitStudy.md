@@ -54,8 +54,15 @@ git log 와 똑같은 화면이 나온다.
 
 
 ### 코드를 짜다가 에러가 나면 안되므로 파일 복사본 만들어서 거기에  먼저 코드를 짜면 안심~~
-branch 기능을 이용하면 안심, commit복사본 만들기 쉬움
-터미널을 열고 git branch 작명  
+branch 기능을 이용하면 안심, commit복사본 만들기 쉬움  
+터미널을 열고 git branch 작명    
+git branch coupon 최근 커밋의 사본  
+git switch coupon 브랜치로 이동  
+
+git branch coupon    
+git status   
+git switch coupon  
+
 
 
 
