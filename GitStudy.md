@@ -13,4 +13,8 @@ git config --global username
 끝  
   
 VScode  
-작업 폴더 만들기 --> 폴더 열기  
+작업 폴더 만들기 --> 폴더 열기 --> 터미널 열기
+git init  
+작업폴더 감시
+파일 생성
+터미널에서
