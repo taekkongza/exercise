@@ -78,11 +78,19 @@ git merge 이름 : 이름 브랜치를 병합
 git branch -d 이름 : 이름 브랜치 지우기  
 
 git status : git 상태 표시
+git log 최근 커밋 로그를 확인
+git log --all --oneline --graph
   
 branch파일을 만들고 코드 입력  -> git add .  --> git commint -m '브랜치연습'   
 git switch main하면 branch파일이 안보인다.  
 다시 git switch coupon하면 다시 보인다.  
 
+coupon branch가 기능을 잘한다. -- 기능 합치기
+coupon 브랜치 코드를 main 브랜치에 합치고 싶다.
+1. 기준 브랜치로 이동 git switch main
+2. git merge coupon
+여기서 문제는 서로 다른 코드, 파일이면 괜찮으나
+동일 코드 , 동일 줄의 수정이면 수동으로 작업??
 
 
 
