@@ -41,4 +41,11 @@ git log --all --oneline
 VScode   
 좌측 표 - + 는 add √ 는 commit  
 
+파일 수정후 차이 확인  
+git diff  
+최근 commit 와 현재 파일의 차이점 보여줌  
+
+
+
+
 
