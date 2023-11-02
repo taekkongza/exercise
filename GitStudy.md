@@ -28,5 +28,5 @@ git commit -m "수정했음'
 예 : 그림파일  
 1 . git add로 기록할 파일을 고른다.  
 2. 고른 파일을 기록명령 git commit  
-작업 폴더 : 파일들 -> 저장할 파일 git add --> staging area --> git commit --> repository  
+#### 작업 폴더 : 파일들 -> 저장할 파일 git add --> staging area (스테이징함) --> git commit --> repository (저장소)  
 
