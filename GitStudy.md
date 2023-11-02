@@ -30,3 +30,9 @@ git commit -m "수정했음'
 2. 고른 파일을 기록명령 git commit  
 ### 작업 폴더 : 파일들 -> 저장할 파일 git add --> staging area (스테이징함) --> git commit --> repository (저장소)  
 
+여러 파일을 스테이징 git add . 
+
+git status 상태창  
+어떤 파일이 스테이징 되었는지 수정이 되었는지  
+
+
