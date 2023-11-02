@@ -38,4 +38,7 @@ git status 상태창
 commit 내역 조회  
 git log --all --oneline  
 
+VScode   
+좌측 표 - + 는 add √ 는 commit  
+
 
