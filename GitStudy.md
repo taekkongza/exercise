@@ -109,8 +109,14 @@ main : 현재 코드임 (commit) <-- 여기에 신기능 코드를 짜서 push�
 
 복사본 develop <-- 여기에 신기능 추가
 
-feature bracn 추가해서 신기능 추가
+feature branch 추가해서 신기능 추가
 --> 신기능이 잘돼면 합친다. merge  
+잘되면 develop에 합니다...이걸 main에 바로 합치면 불안하나까  
+release로 만든후 출사전에 테스트한다.  
+이상없이 코드가 완성이 되면 main에 합침. 유저들에게도 배포  
+
+유저들이 오류를 신고하면 급하니까 바로 고친다. hotfix  
+
 
 
   
