@@ -46,6 +46,12 @@ git diff
 최근 commit 와 현재 파일의 차이점 보여줌  
 git difftool  파일 비교 vim 사용하여  
 
+git difftool 커밋아이디 - 현재파일과 특정커밋 비교가능  
+
+ 
+
+
+
 
 
 
