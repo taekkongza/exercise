@@ -47,7 +47,11 @@ git diff
 git difftool  파일 비교 vim 사용하여  
 
 git difftool 커밋아이디 - 현재파일과 특정커밋 비교가능  
---> VS code에서 에디트 가능함..
+--> VS code에서 에디트 가능함..  
+extension 에서 git graph 설치  
+git log 와 똑같은 화면이 나온다.  
+
+
 
  
 
