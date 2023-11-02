@@ -98,7 +98,7 @@ coupon 브랜치 코드를 main 브랜치에 합치고 싶다.
 
 ###
 
-## GitFlow
+## GitFlow 전략
 1. main
 2. develop
 3. feature
@@ -117,7 +117,11 @@ release로 만든후 출사전에 테스트한다.
 
 유저들이 오류를 신고하면 급하니까 바로 고친다. hotfix  
 
-
+## Trunk-based
+main branch
+  feature1 
+      feature2
+소드 코드 하나만 관리해서 편하나 많은 테스트를 해보고 내보내야 한다.  
 
   
 
