@@ -16,5 +16,11 @@ VScode
 작업 폴더 만들기 --> 폴더 열기 --> 터미널 열기
 git init  
 작업폴더 감시
-파일 생성
-터미널에서
+파일 생성, 코드 작성
+터미널에서  
+git add app.txt  
+git commit -m '메세지 첫파일'
+코드 추가 작성  
+git add app.txt  
+git commit -m "수정했음'  
+
