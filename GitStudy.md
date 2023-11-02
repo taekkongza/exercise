@@ -96,6 +96,15 @@ coupon 브랜치 코드를 main 브랜치에 합치고 싶다.
    2. git add .
    3. git commit -m '수정'
 
+###
+
+## GitFlow
+1. main
+2. develop
+3. feature
+4. release
+5. hotfix
+   
 
   
 
