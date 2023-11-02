@@ -24,3 +24,7 @@ git commit -m '메세지 첫파일'
 git add app.txt  
 git commit -m "수정했음'  
 
+모든 파일의 버전을 기록할 필요가 없어서 명령어가 2개로 나뉨
+예 : 그림파일
+작업 폴더 : 파일들 -> 저장할 파일 git add --> staging area --> git commit --> repository
+
