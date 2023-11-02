@@ -47,6 +47,7 @@ git diff
 git difftool  파일 비교 vim 사용하여  
 
 git difftool 커밋아이디 - 현재파일과 특정커밋 비교가능  
+--> VS code에서 에디트 가능함..
 
  
 
