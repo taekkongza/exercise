@@ -78,6 +78,11 @@ git merge 이름 : 이름 브랜치를 병합
 git branch -d 이름 : 이름 브랜치 지우기  
 
 git status : git 상태 표시
+  
+branch파일을 만들고 코드 입력  -> git add .  --> git commint -m '브랜치연습'   
+git switch main하면 branch파일이 안보인다.  
+다시 git switch coupon하면 다시 보인다.  
+
 
 
 
