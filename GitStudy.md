@@ -105,6 +105,13 @@ coupon 브랜치 코드를 main 브랜치에 합치고 싶다.
 4. release
 5. hotfix
    
+main : 현재 코드임 (commit) <-- 여기에 신기능 코드를 짜서 push는 절대 안돼 !!  
+
+복사본 develop <-- 여기에 신기능 추가
+
+feature bracn 추가해서 신기능 추가
+--> 신기능이 잘돼면 합친다. merge  
+
 
   
 
