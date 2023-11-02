@@ -63,7 +63,15 @@ git branch coupon
 git status   
 git switch coupon  
 
+브랜치 명령어  
+git branch 현재 작업중인 브랜치 목록  
+git branch 이름 : 새로운 브랜치 생성  
+git checkout -b 이름 : 새로운 브랜치 생성   
+git checkout 이름 : 이름 브랜치로 이동  
+git merge 이름 : 이름 브랜치를 병합  
+git branch -d 이름 : 이름 브랜치 지우기  
 
+ 
 
 
  
