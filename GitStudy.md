@@ -89,9 +89,9 @@ coupon branch가 기능을 잘한다. -- 기능 합치기
 coupon 브랜치 코드를 main 브랜치에 합치고 싶다.
 1. 기준 브랜치로 이동 git switch main
 2. git merge coupon
-여기서 문제는 서로 다른 코드, 파일이면 괜찮으나
-동일 코드 , 동일 줄의 수정이면 수동으로 작업??
----> conflict 에러 발생
+여기서 문제는 서로 다른 코드, 파일이면 괜찮으나  
+동일 코드 , 동일 줄의 수정이면 수동으로 작업??  
+---> conflict 에러 발생  
    1. 원하는 코드만 남기고
    2. git add .
    3. git commit -m '수정'
