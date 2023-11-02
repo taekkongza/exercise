@@ -35,4 +35,7 @@ git commit -m "수정했음'
 git status 상태창  
 어떤 파일이 스테이징 되었는지 수정이 되었는지  
 
+commit 내역 조회  
+git log --all --oneline  
+
 
